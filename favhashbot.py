@@ -37,6 +37,6 @@ search_results = twitter_api.search.tweets(q=q, count=count)
 statuses = search_results['statuses']
 
 for tweets in statuses:
-print tweets['text'], '\n'
-result = twitter_api.favorites.create(_id=tweets['id'])
-print("favorited: %s" % (result['text'].encode("utf-8")), '\n\n')
+  print tweets['text'], '\n'
+  result = twitter_api.favorites.create(_id=tweets['id'])
+  print("favorited: %s" % (result['text'].encode("utf-8")), '\n\n')
