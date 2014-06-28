@@ -28,7 +28,7 @@ auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUM
 twitter_api = twitter.Twitter(auth=auth)
 
 q = ''
-#it should look likt this
+#it should look like this
 #q = '#ThisIsTwitter'
 count = 
 #count = 1000
