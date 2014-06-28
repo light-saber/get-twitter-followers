@@ -7,7 +7,10 @@
 #The problem with following too many people is that your twitter feed will be filled with their tweets, which may not be of interest sometimes. 
 #The problem with retweeting is that it will lead to too many tweets from the user and that may not be considered good.
 #But when we favourite a tweet, its not made public and slowly but steadily it will help in increasing the followers.
-#Since this is a legitimate way of increasing followers, it needs some input from the user too. They must also tweet once in a while on those topics using relevant hashtags. This way you can create a pseudo-conversation where the other person thinks you are reading his tweets but that is never the case. This way slowly, but steadily you will increase the number of followers.
+#Since this is a legitimate way of increasing followers, it needs some input from the user too. 
+#They must also tweet once in a while on those topics using relevant hashtags. 
+#This way you can create a pseudo-conversation where the other person thinks you are reading his tweets but that is never the case.
+#This way slowly, but steadily you will increase the number of followers.
 #This is know to work best when you use the hashtags pertaining to certain events/conference. 
 
 #Created by light-saber
