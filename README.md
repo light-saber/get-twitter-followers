@@ -25,4 +25,4 @@ This is know to work best when you use the hashtags pertaining to certain events
 
 
 #TODO:
-* Skip those tweets that have already been retweeted. 
+* Skip those tweets that have already been favourited. 
